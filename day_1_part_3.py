@@ -73,7 +73,7 @@ for index in range(len(cuvinte)):
     print(cuvinte[index], end = " ")
 
 
--------------------EXERCITII
+# -------------------EXERCITII
 
 text = input("Care este prescurtarea academiei?").lower()
 while text != "telacad":

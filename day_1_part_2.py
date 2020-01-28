@@ -5,7 +5,7 @@ a = int(input("a: "))
 b = int(input("b: "))
 suma = a + b
 print("Suma este: %s" % (suma))
----------------------------------EXERCITII
+# ---------------------------------EXERCITII
 sir = input("Introduceti textul: ")
 sir += " Telecom preda cursul de Python "
 sir += str(3)
